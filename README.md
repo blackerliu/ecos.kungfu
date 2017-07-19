@@ -1,4 +1,4 @@
-tizen.kungfu
+ecos.kungfu
 ============
 
-study tizen
+study eCOS
